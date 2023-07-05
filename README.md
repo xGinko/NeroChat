@@ -33,6 +33,7 @@ Original code: https://github.com/AlexProgrammerDE/PistonChat
 ## Popular servers running derivatives of this plugin
 
 - 6g6s.org
+- f3f5.xyz
 
 ## Player Commands
 
