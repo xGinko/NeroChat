@@ -18,6 +18,7 @@ commands:
     permission-message: You have no permission to do that!
     aliases:
       - tell
+      - t
       - w
       - pm
       - msg
